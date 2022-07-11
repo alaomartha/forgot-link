@@ -1,0 +1,5 @@
+@media only screen and (max-width: 426px) {
+  .link-text .thank{
+    display: none;
+  }
+}
