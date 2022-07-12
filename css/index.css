@@ -2,4 +2,7 @@
   .link-text .thank{
     display: none;
   }
+  .link-text .link{
+    margin-top: 5px;
+  }
 }
